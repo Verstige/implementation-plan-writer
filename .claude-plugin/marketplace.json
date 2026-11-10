@@ -1,0 +1,19 @@
+{
+  "name": "implementation-plan-writer",
+  "description": "Write implementation plans: bite-sized tasks, paths, code.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Write implementation plans: bite-sized tasks, paths, code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "implementation-plan-writer",
+      "source": "./plugins/implementation-plan-writer",
+      "description": "Write implementation plans: bite-sized tasks, paths, code."
+    }
+  ]
+}
